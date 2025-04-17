@@ -6,7 +6,7 @@
 A simple Gleam library for formatting strings. It provides the formatting functionality of erlangs `io_lib:format/2` function.
 
 For on erlang string formatting please visit this erlang doc page for more information:
-https://www.erlang.org/doc/apps/stdlib/io#fwrite/1
+https://www.erlang.org/doc/apps/stdlib/io#fwrite/3
 
 ## Installation
 ```sh
