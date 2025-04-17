@@ -52,10 +52,7 @@ Further documentation can be found at <https://hexdocs.pm/format>.
 ## Notes
 The module functions can take a list of arguments or a tuple. If you pass a tuple, it will be unpacked into a list. If  the user passes a tuple as a single argument, they must provide a format string with appropriate format specifier for each element in the tuple. Erlang treats user defined types as tuples. See the example above.:
 
-```gleam
-
 ## Development
-
 ```sh
 gleam run   # Run the project
 gleam test  # Run the tests
