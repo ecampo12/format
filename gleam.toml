@@ -3,7 +3,7 @@ version = "1.0.0"
 
 description = "A Simple Gleam library for formatting strings."
 licences = ["Apache-2.0"]
-repository = { type = "github", user = "ecampo", repo = "format" }
+repository = { type = "github", user = "ecampo12", repo = "format" }
 
 [dependencies]
 gleam_stdlib = ">= 0.44.0 and < 2.0.0"
